@@ -1,0 +1,10 @@
+
+클라우드 id, nsangw@naver.com, password, @sumberkorea123
+
+Putty
+
+106.10.50.104 
+External port : 2103
+
+ID:root
+PW:sumberkorea
